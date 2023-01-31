@@ -1,3 +1,5 @@
 # TechnicalHomework1
-Hello there
+Hello bye
+bye hello
+
 
